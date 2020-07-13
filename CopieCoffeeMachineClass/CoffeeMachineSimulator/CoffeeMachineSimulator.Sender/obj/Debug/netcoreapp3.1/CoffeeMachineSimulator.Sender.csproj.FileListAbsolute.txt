@@ -1,0 +1,9 @@
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\bin\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.deps.json
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\bin\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.dll
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\bin\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.pdb
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.csprojAssemblyReference.cache
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.AssemblyInfoInputs.cache
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.AssemblyInfo.cs
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.csproj.CoreCompileInputs.cache
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.dll
+D:\Documente\CoffeeMachineClass\CoffeeMachineSimulator\CoffeeMachineSimulator.Sender\obj\Debug\netcoreapp3.1\CoffeeMachineSimulator.Sender.pdb
